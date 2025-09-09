@@ -1,0 +1,3 @@
+/workspaces/MiniDB/build/CMakeFiles/ministore.dir
+/workspaces/MiniDB/build/CMakeFiles/edit_cache.dir
+/workspaces/MiniDB/build/CMakeFiles/rebuild_cache.dir
